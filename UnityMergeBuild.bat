@@ -1,0 +1,2 @@
+"C:\Program Files\Unity\Editor\Data\Tools\unityYAMLMerge.exe" merge -p "C:\Users\svc-student\Desktop\MergeExample\Assets\Blank.unity" "C:\Users\svc-student\Desktop\MergeExample\Assets\Red.unity" "C:\Users\svc-student\Desktop\MergeExample\Assets\Blue.unity" "C:\Users\svc-student\Desktop\MergeExample\Assets\End.unity"
+"C:\Program Files\Unity\Editor\Unity.exe" -quit -batchmode -projectPath "C:\Users\svc-student\Desktop\MergeExample" -buildWindows64Player "C:\Users\svc-student\Desktop\MergeExample\Builds.exe"
